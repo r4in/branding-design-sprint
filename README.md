@@ -1,5 +1,7 @@
 # Hello, there!
 
-You're probably freaking out already since you desperately opened this document. But fear not, this guide aims to assist you in every process of the meeting.
+Hey Folks! Congratulations on landing that branding project. So, what's next? You sure are confident with your killer-design skills, but what about understanding and communicating effectively with the client? Well, you're in luck! 
 
-Whether you're a visual designer, a product manager or developer, leading **Kickoff Meetings** is one of the most crutial moments in branding & identity as failing to properly extract the objectives & goals and of your clients is a very vital step in the process. (Believe me, you don't want to doing 20 revisions because of mismatched client expectations)
+This guide aims to give you a smooth & silky process, from understanding their branding position to getting client approval*.
+
+*I do not guarantee a 100% silky smooth run on your project. Shampoos can't even do that too.
