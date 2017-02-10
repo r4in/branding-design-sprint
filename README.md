@@ -4,4 +4,4 @@ Hey Folks! Congratulations on landing that branding project. So, what's next? Yo
 
 This guide aims to give you a smooth & silky process, from understanding their branding position to getting client approval*.
 
-*I do not guarantee a 100% silky smooth run on your project. Shampoos can't even do that too.
+*I do not guarantee a 100% silky smooth run on your project. Shampoos falsely advertise that too.
