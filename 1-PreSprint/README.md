@@ -1,3 +1,5 @@
+### Pre-Sprint
+
 So, how do we go about this? You might be thinking, it’s quite simple like:
 - Talk to the client, ask them what they want.
 - Send 3 mockups and pray 1 gets approved.

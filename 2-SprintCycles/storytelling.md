@@ -8,7 +8,7 @@ act 3 : resolution
 
 So applying this for the end-of-week’s sprint cycle:
 act 1 : defining this cycle’s objectives & goals
-act 2 : showwing the challenges & limitations
+act 2 : showing the challenges & design constraints
 act 3 : presenting the solution
 
 ### Be Flexible
