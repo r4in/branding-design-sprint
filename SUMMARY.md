@@ -1,5 +1,7 @@
 # Summary
 
+* [0 Intro](0 Intro/README.md)
+    * [What is a Brand?](0 Intro/whatisabrand.md)
 * [1 Pre Sprint](1-PreSprint/README.md)
     * [Branding Delivery](1-PreSprint/brandingdelivery.md)
     * [Setting Up](1-PreSprint/setting-up.md)
@@ -14,5 +16,4 @@
     * [Round 4](3-SprintLevels/rount1.md)
 * [4 Signoff](4-Signoff/README.md)
     * [Assets Management](4-Signoff/assets.md)
-    * [Assets Management](4-Signoff/outro.md)
-
+    * [Outro](4-Signoff/outro.md)
