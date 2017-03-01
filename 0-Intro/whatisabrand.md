@@ -11,17 +11,27 @@ Branding is the Actual Product
 If you answered yes to all of the above, congratulations! - It's incorrect! Confused? Don't worry, I was also there before.
 
 ### What is a Brand?
-"A brand is a person's gut feeling about a product, service or company"
+"A brand is a person's gut feeling about a product, service or company. You can't control the process, but you can surely influence it."
 - The Brand Gap, Marty Neumeier
 
 That's it. But why? It makes sense because what others feel about your product or service is defined by people, and not what the market or advertising agencies say. 
 
-"It's not what *you* say it is. It's what *they* say it is"
+So It's not what *you* say it is. It's what *they* say it is"
 
-You can't control the process, but you can surely influence it.
+### But why is important?
 
-### So, What are we exactly doing?
-What we're doing is actually just a small chunk of the whole brand. We're basically laying down the foundation of developing the brand in an attempt of visually representing what the stakeholders imagine their company/product to be. Our mission as brand designers is to transform their ideas into something tangible.
+While there's so many way to go about this, here's an example:
+
+![](assets/nike.jpg)
+
+On the left is a normal black shirt that probably would cost around Php250. Now add that swoosh logo from Nike, you could price it for a thousand more. And that ladies & gentleman is the power of branding.
+
+### So, where does that put us into?
+Basically what we're doing is actually just a part of the whole branding strategy. We're basically laying down the foundation of developing the brand in an attempt of visually represent what the stakeholders imagine their company/product to be.
+
+![](assets/branding-parts.png)
+
+Our mission as designers is to transform their ideas and vision into something tangible and cohesize - a visual representation of their product.
 
 ### So, we're doing a logo right?
 "The term *Logo*, short for Logotype, design-speak for a *trademark* made from a custom-lettered word (Logos is Greek for Word)"

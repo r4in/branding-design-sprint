@@ -1,12 +1,4 @@
-### Pre-Sprint
+### The Need For A Branding Framework
+Have you ever been to a logo project before where you get suck into a rabbit hole of endless revisions from the client? Did it ever occur to you - that moment when everything during client brief was crystal clear, but everything he meant was totally the opposite when you started sending over your mockups? Or maybe, you just became the ultimate pixel-pusher (you didn’t even realize it) because things just got out of hand? 
 
-So, how do we go about this? You might be thinking, it’s quite simple like:
-- Talk to the client, ask them what they want.
-- Send 3 mockups and pray 1 gets approved.
-- Profit!
-
-But that’s just not usually what happens. You need to dig deeper and understand their objectives & goals, and make sure you’re doing a good job at explaining why you have the right solution (And not the WordArt they mocked up)* You need to present the concept, the rationale and the theory behind it. Guessing is a recipe for disaster. What we’re doing is creating a design process to ensure everyone in the team, including the stakeholders are steering the design in the right direction.
-
-So we’re gonna be crafting a great branding workflow!
-
-*PS. No offense to WordArt, I love WordArt!
+Well, you’re in luck! This guide aims to create a smooth and frictionless workflow with Branding Design Sprints. We’re stepping away from the traditional process - from the client brief, to showing off the final logo mockups. We give huge emphasis to process and client collaboration throughout the different phases of design & conceptualization. So that during the early stages of branding, we can pivot to the right design direction and prevent unecessary arguments & pointless debates.
