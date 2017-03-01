@@ -2,11 +2,11 @@
 Before we start doing the sprints, I think we first need to establish what it is that we're trying to do here. Like a crash course in branding! So, what exactly is branding?
 
 ### Branding Mythology
-Okay, let's do an activity. Check the boxes below which you think is branding:
+Okay, let's do an activity. Select the items from the list below which you think is branding:
 
-Branding is the Logo (Insignia, Symbol, Icon, ect.)
-Branding is an Identity (Brandbooks, Styleguides)
-Branding is the Actual Product
+- Branding is the Logo (Insignia, Symbol, Icon, ect.)
+- Branding is an Identity (Brandbooks, Styleguides)
+- Branding is the Actual Product
 
 If you answered yes to all of the above, congratulations! - It's incorrect! Confused? Don't worry, I was also there before.
 
