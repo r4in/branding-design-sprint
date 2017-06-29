@@ -22,14 +22,14 @@ So It's not what *you* say it is. It's what *they* say it is"
 
 While there's so many way to go about this, here's an example:
 
-![](../assets/nike.jpg)
+![](../../assets/nike.jpg)
 
 On the left is a normal black shirt that probably would cost around Php250. Now add that swoosh logo from Nike, you could price it for a thousand more. And that ladies & gentleman, is the power of branding.
 
 ### So, where does that put us into?
 Basically what we're doing is actually just a part of the whole branding strategy. We're basically laying down the foundation of developing the brand in an attempt to create what their company or product visually represent.
 
-![](../assets/branding-parts.png)
+![](../../assets/branding-parts.png)
 
 Our mission as designers is to transform their ideas and vision into something tangible and cohesize - a visual representation of the values of their company.
 
